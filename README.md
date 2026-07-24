@@ -2,7 +2,7 @@
 
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:FADADD,50:FF69B4,100:C084FC&height=65&section=header"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:FADADD,50:FF69B4,100:C084FC&height=90&section=header"
 />
 
 <h1 align="center">
@@ -59,7 +59,9 @@
 
 <td width="79%" valign="top">
 
-<h2>🌸 About me</h2>
+<h2 align="center">🌸 About me</h2>
+
+<br>
 
 <p>
 I'm a <strong>Computer Science and Artificial Intelligence student</strong>
@@ -140,7 +142,9 @@ life, alongside building dApps and blockchain systems, of course.
 
 <hr>
 
-<h2>💕 Technical stack</h2>
+<h2 align="center">💕 Technical stack</h2>
+
+<br>
 
 <div align="center">
 
@@ -192,7 +196,9 @@ life, alongside building dApps and blockchain systems, of course.
 
 <hr>
 
-<h2>🛠️ Currently building</h2>
+<h2 align="center">🛠️ Currently building</h2>
+
+<br>
 
 <table>
 
@@ -225,7 +231,9 @@ life, alongside building dApps and blockchain systems, of course.
 
 <hr>
 
-<h2>✨ Featured projects</h2>
+<h2 align="center">✨ Featured projects</h2>
+
+<br>
 
 <table>
 
@@ -309,7 +317,9 @@ Java and DSA
 
 <hr>
 
-<h2>📚 Currently learning</h2>
+<h2 align="center">📚 Currently learning</h2>
+
+<br>
 
 <table>
 
@@ -347,7 +357,9 @@ Java and DSA
 
 <hr>
 
-<h2>🎀 Beyond code</h2>
+<h2 align="center">🎀 Beyond code</h2>
+
+<br>
 
 <table>
 
@@ -380,7 +392,9 @@ Java and DSA
 
 <hr>
 
-<h2>💼 Career interests</h2>
+<h2 align="center">💼 Career interests</h2>
+
+<br>
 
 <p>
 I'm interested in <strong>graduate, junior and internship opportunities</strong>
