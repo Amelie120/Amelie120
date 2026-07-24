@@ -1,19 +1,28 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FADADD,50:FF69B4,100:C084FC&height=170&section=header&text=Hi,%20I'm%20Amelie!%20✨&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:FADADD,50:FF69B4,100:C084FC&height=125&section=header&text=Hi,%20I'm%20Amelie!%20✨&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=36"
+/>
 
 <div align="center">
 
 ### 💗 Computer Science & AI student building smart contracts and Web3 applications
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=FF69B4&center=true&vCenter=true&width=700&lines=Solidity+%E2%9C%A6+Foundry+%E2%9C%A6+Ethereum;Building+secure+smart+contracts+%F0%9F%94%97;Exploring+AI%2C+Web3+and+emerging+technology+%E2%9C%A8"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=900&color=FF69B4&center=true&vCenter=true&width=580&height=30&lines=Solidity+%E2%9C%A6+Foundry+%E2%9C%A6+Ethereum;Building+secure+smart+contracts+%F0%9F%94%97;Exploring+AI%2C+Web3+and+emerging+technology+%E2%9C%A8"
   alt="Animated introduction"
 />
 
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amelietor/)
-[![Opino](https://img.shields.io/badge/Opino-C084FC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://opino.io/)
-[![GitHub](https://img.shields.io/badge/GitHub-F8BBD0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Amelie120)
+<p>
+  <a href="https://www.linkedin.com/in/amelietor/">
+    <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://opino.io/">
+    <img src="https://img.shields.io/badge/Opino-C084FC?style=flat-square&logo=googlechrome&logoColor=white" alt="Opino"/>
+  </a>
+  <a href="https://github.com/Amelie120">
+    <img src="https://img.shields.io/badge/GitHub-F8BBD0?style=flat-square&logo=github&logoColor=black" alt="GitHub"/>
+  </a>
+</p>
 
 </div>
 
@@ -21,26 +30,17 @@
 
 ## 🌸 About me
 
-I'm a **Computer Science and Artificial Intelligence student** at the
-University of Kent, graduating in **2027** after completing a Year in Business.
+I'm a **Computer Science and Artificial Intelligence student** at the University of Kent, graduating in **2027** after completing a Year in Business.
 
-I'm currently focusing on **blockchain and smart-contract development**,
-particularly Solidity, Foundry, Ethereum and secure contract testing.
+I'm currently focusing on **blockchain and smart-contract development**, particularly Solidity, Foundry, Ethereum and secure contract testing.
 
 🏆 I achieved **93% in Blockchain & Distributed Systems**.
 
-💻 Alongside my studies, I work on
-[**Opino**](https://opino.io/), a SaaS product where I gain practical
-experience testing, developing and improving a real software platform.
+💻 Alongside my studies, I work on [**Opino**](https://opino.io/), a SaaS product where I gain practical experience testing, developing and improving a real software platform.
 
-💬 I love discussing blockchain, artificial intelligence and emerging
-technologies, particularly how they may influence the way people build,
-collaborate and exchange value.
+💬 I love discussing blockchain, artificial intelligence and emerging technologies, particularly how they may influence the way people build, collaborate and exchange value.
 
-✨ I also enjoy deep conversations about philosophy, unusual ideas and
-completely random facts. I wish there were enough hours to learn everything.
-I strongly believe that pursuing wisdom is one of the best ways to spend a
-life — alongside building dApps and blockchain systems, of course.
+✨ I also enjoy deep conversations about philosophy, unusual ideas and completely random facts. I wish there were enough hours to learn everything. I strongly believe that pursuing wisdom is one of the best ways to spend a life — alongside building dApps and blockchain systems, of course.
 
 ---
 
@@ -48,14 +48,14 @@ life — alongside building dApps and blockchain systems, of course.
 
 <div align="center">
 
-![Solidity](https://img.shields.io/badge/Solidity-FF69B4?style=for-the-badge&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-C084FC?style=for-the-badge&logo=ethereum&logoColor=white)
-![Foundry](https://img.shields.io/badge/Foundry-F8BBD0?style=for-the-badge&logoColor=black)
-![Python](https://img.shields.io/badge/Python-FFB6C1?style=for-the-badge&logo=python&logoColor=black)
-![Java](https://img.shields.io/badge/Java-D8B4FE?style=for-the-badge&logo=openjdk&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD1DC?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-E879F9?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-F9A8D4?style=for-the-badge&logo=github&logoColor=black)
+![Solidity](https://img.shields.io/badge/Solidity-FF69B4?style=flat-square&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-C084FC?style=flat-square&logo=ethereum&logoColor=white)
+![Foundry](https://img.shields.io/badge/Foundry-F8BBD0?style=flat-square&logoColor=black)
+![Python](https://img.shields.io/badge/Python-FFB6C1?style=flat-square&logo=python&logoColor=black)
+![Java](https://img.shields.io/badge/Java-D8B4FE?style=flat-square&logo=openjdk&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD1DC?style=flat-square&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-E879F9?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-F9A8D4?style=flat-square&logo=github&logoColor=black)
 
 </div>
 
@@ -110,8 +110,11 @@ Outside software development, I enjoy:
 
 I'm interested in **graduate, junior and internship opportunities** involving:
 
-`Smart Contracts` · `Blockchain Infrastructure` · `Web3 Applications` ·
-`Fintech` · `Software Engineering`
+<div align="center">
+
+`Smart Contracts` · `Blockchain Infrastructure` · `Web3 Applications` · `Fintech` · `Software Engineering`
+
+</div>
 
 ---
 
@@ -121,6 +124,9 @@ I'm interested in **graduate, junior and internship opportunities** involving:
 
 ✨ Always learning, always building ✨
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C084FC,50:FF69B4,100:FADADD&height=110&section=footer"/>
-
 </div>
+
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:C084FC,50:FF69B4,100:FADADD&height=80&section=footer"
+/>
