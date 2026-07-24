@@ -1,51 +1,54 @@
+<div align="center">
+
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:FADADD,50:FF69B4,100:C084FC&height=95&section=header"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:FADADD,50:FF69B4,100:C084FC&height=65&section=header"
 />
 
 <h1 align="center">
+  <img
+    src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif"
+    width="28"
+    alt="Animated sparkles"
+  />
   Hi, I'm Amelie
   <img
     src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif"
-    width="45"
+    width="40"
     alt="Animated waving hand"
   />
   <img
     src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif"
-    width="35"
+    width="28"
     alt="Animated sparkles"
   />
 </h1>
 
-<div align="center">
-
-### 💗 Computer Science and AI student building smart contracts and Web3 applications
+<h3>💗 Computer Science and AI student building smart contracts and Web3 applications</h3>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=900&color=FF69B4&center=true&vCenter=true&width=620&height=32&lines=Solidity+%E2%9C%A6+Foundry+%E2%9C%A6+Ethereum;Building+secure+smart+contracts+%F0%9F%94%97;Exploring+AI%2C+Web3+and+emerging+technology+%E2%9C%A8"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=900&color=FF69B4&center=true&vCenter=true&width=600&height=27&lines=Solidity+%E2%9C%A6+Foundry+%E2%9C%A6+Ethereum;Building+secure+smart+contracts+%F0%9F%94%97;Exploring+AI%2C+Web3+and+emerging+technology+%E2%9C%A8"
   alt="Animated introduction"
 />
 
-<p>
-  <a href="https://www.linkedin.com/in/amelietor/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
-  <a href="https://opino.io/">
-    <img
-      src="https://img.shields.io/badge/Opino-C084FC?style=for-the-badge&logo=googlechrome&logoColor=white"
-      alt="Opino"
-    />
-  </a>
-  <a href="https://github.com/Amelie120">
-    <img
-      src="https://img.shields.io/badge/GitHub-F8BBD0?style=for-the-badge&logo=github&logoColor=black"
-      alt="GitHub"
-    />
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/amelietor/">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
+<a href="https://opino.io/">
+  <img
+    src="https://img.shields.io/badge/Opino-C084FC?style=for-the-badge&logo=googlechrome&logoColor=white"
+    alt="Opino"
+  />
+</a>
+<a href="https://github.com/Amelie120">
+  <img
+    src="https://img.shields.io/badge/GitHub-F8BBD0?style=for-the-badge&logo=github&logoColor=black"
+    alt="GitHub"
+  />
+</a>
 
 </div>
 
@@ -54,7 +57,7 @@
 <table>
 <tr>
 
-<td width="76%" valign="top">
+<td width="79%" valign="top">
 
 <h2>🌸 About me</h2>
 
@@ -85,7 +88,8 @@ platform.
 💬 I love talking about blockchain, artificial intelligence and emerging
 technologies. I find it fascinating how quickly these technologies are
 changing the way we build, work, collaborate and exchange value. Whether
-those changes will make things better or worse is something we can decide :)
+those changes will make things better or worse is still open for debate,
+which is part of what makes them so interesting :)
 </p>
 
 <p>
@@ -97,11 +101,11 @@ life, alongside building dApps and blockchain systems, of course.
 
 </td>
 
-<td width="24%" align="center" valign="middle">
+<td width="21%" align="center" valign="middle">
 
 <img
   src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif"
-  width="55"
+  width="38"
   alt="Animated sparkles"
 />
 
@@ -109,7 +113,7 @@ life, alongside building dApps and blockchain systems, of course.
 
 <img
   src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f497/512.gif"
-  width="145"
+  width="110"
   alt="Animated growing heart"
 />
 
@@ -117,13 +121,17 @@ life, alongside building dApps and blockchain systems, of course.
 
 <img
   src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif"
-  width="55"
+  width="38"
   alt="Animated sparkles"
 />
 
-<h3>Learning</h3>
-<h3>Building</h3>
-<h3>Growing</h3>
+<p>
+<strong>Learning</strong>
+<br>
+<strong>Building</strong>
+<br>
+<strong>Growing</strong>
+</p>
 
 </td>
 
@@ -394,7 +402,7 @@ fintech and software engineering.
 
 <img
   src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif"
-  width="38"
+  width="32"
   alt="Animated sparkles"
 />
 
@@ -412,16 +420,13 @@ interesting projects or new opportunities.
   />
 </a>
 
-<br>
-<br>
-
 <h3>💗 Thanks for visiting my profile</h3>
 
 <p>✨ Always learning, always building ✨</p>
 
 <img
   src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f497/512.gif"
-  width="58"
+  width="50"
   alt="Animated growing heart"
 />
 
@@ -429,5 +434,5 @@ interesting projects or new opportunities.
 
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:C084FC,50:FF69B4,100:FADADD&height=75&section=footer"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:C084FC,50:FF69B4,100:FADADD&height=55&section=footer"
 />
