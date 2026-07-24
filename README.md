@@ -1,7 +1,7 @@
 <div align="center">
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:FADADD,50:FF69B4,100:C084FC&height=85&section=header"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:FADADD,50:FF69B4,100:C084FC&height=100&section=header"
 />
 <h1 align="center">
   <img
